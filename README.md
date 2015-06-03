@@ -18,7 +18,6 @@ A template resume is provided. Build a complete resume by adding missing informa
 * JavaScript Basics
 * Intro to jQuery
 
-
 ###Steps
 0. Build JSONs for data to be inserted into the resume
 0. Iterate through JSONs and append to the resume using JQUERY
