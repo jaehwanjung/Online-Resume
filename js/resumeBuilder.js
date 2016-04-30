@@ -10,7 +10,7 @@ var bio = {
         "location": "Vancouver, BC V6E 1G1",
         "blog": "N/A"
     },
-    "skills": ["C#", "ServiceStack", "WCF", "Silverlight", "Javascript", "CSS", "HTML", "8-hour sleep", "Mental blocking while my girl friend is nagging"],
+    "skills": ["C#", "ServiceStack", "WCF", "Silverlight", "Javascript", "CSS", "HTML", "8-hour sleep"],
     "biopic": "images/MyPic.jpg",
     "display": function () {
         function appendFormattedToTopContacts(element, data) {
